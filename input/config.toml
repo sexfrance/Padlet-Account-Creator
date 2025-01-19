@@ -3,5 +3,5 @@ password = "GenBySexfrance@2024" # "" = Random
 
 [ dev ]
 Proxyless = true
-Debug = true
-Threads = 1 
+Debug = false
+Threads = 10
