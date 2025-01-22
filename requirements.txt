@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.3
+logmagix==2.0.10
+Requests==2.32.3
+tls_client==1.0.1
+toml==0.10.2
