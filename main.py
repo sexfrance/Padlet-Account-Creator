@@ -6,9 +6,7 @@ import toml
 import ctypes
 import threading
 import string
-import hashlib
 
-from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from functools import wraps
 from logmagix import Logger, Home
